@@ -31,7 +31,7 @@ conda activate memvr
 pip install --upgrade pip
 pip install -e .
 ```
-2. After setting up, clone the repository from [MemVR](https://github.com/1zhou-Wang/MemVR) and move all contents to the main directory of LLaVA (except README.md).
+2. After setting up, clone the repository and move all contents to the main directory of LLaVA (except README.md).
 ```bash
 LLaVA/
 ├── llava/
