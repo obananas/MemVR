@@ -2,7 +2,7 @@
 <img src="assets/memvrlogo.png" width="270px">
 </div>
 
-Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models
+### Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models
 
 
 ## 🎯 Overview
