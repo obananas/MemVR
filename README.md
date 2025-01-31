@@ -55,10 +55,10 @@ Please note that you may need to fill in your own OpenAI API-KEY for GPT-based e
 
 Here are some tips of the parameters in the scripts:
 ```
-    --retracing-ratio 0.12 \
-    --entropy-threshold 0.75 \
-    --starting-layer 5 \
-    --ending-layer 16 \
+--retracing-ratio 0.12 \
+--entropy-threshold 0.75 \
+--starting-layer 5 \
+--ending-layer 16 \
 ```
 Where 
 * [retracing-ratio] refers to the percentage of visual_token to be retraced in certain layer. It has straightforward effect on the model's performance.
