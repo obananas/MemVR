@@ -1,7 +1,7 @@
 
 ### Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models
 
-## 🕹️ Usage
+## Usage
 
 ### Installation
 
@@ -66,7 +66,7 @@ Where
 * [starting-layer] and [ending-layer] set the range of layers where visual information retracing is allowed.
 
 
-## 📝 Related Projects
+## Related Projects
 - [OPERA](https://github.com/shikiw/OPERA): OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 - [VCD](https://github.com/XiangLi1999/ContrastiveDecoding): VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
 - [DoLa](https://github.com/voidism/DoLa): DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models
